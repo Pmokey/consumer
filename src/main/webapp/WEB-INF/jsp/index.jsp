@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello World,Spring Boot 2.0 JSP Sample
+Hello World,Spring Boot 2.0 JSP Sample2222221
 </body>
 </html>
